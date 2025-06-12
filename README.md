@@ -1,5 +1,7 @@
 # Sentiment-Analysis
 
+![image](https://github.com/user-attachments/assets/30685f5b-56ae-4591-b358-626bfff73932)
+
 Sentiment analysis is a natural language processing technique that determines whether the data is positive, negative, or neutral. Basically, sentiment analysis is performed on textual data.
 This is a very useful technique that is used to help businesses to monitor brands and products according to customer feedback and understand customer needs.
 
@@ -22,8 +24,6 @@ NLP allows machines to break down and interpret human language. Natural Language
 
 # About Sentiment Analysis Project:
 This is a Machine Learning project, in which with the help of machine learning algorithms and techniques we will classify the sentiment of text that is positive, negative, or neutral.
-
-# sentiment analysis
 
 # Sentiment Analysis Dataset
 The dataset we will be using to develop this machine learning sentiment analysis project is Twitter US Airline Sentiment which is available on the following link: Sentiment Analysis Dataset
